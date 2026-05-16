@@ -33,7 +33,7 @@ Updated for version 2.4.
 
 <img src="./party/readme/DRPR_FireShieldDemo.gif" width="500">
 
-* 32 players is now the maximum amount of players possible per race (Online is not stable with more than 16 players currently. To play online, use the 16 player limit branch for now).
+* 32 players is now the maximum amount of players possible per race.
 * CHECK warnings now appear sooner. There are new CHECK warnings, as well.
 * Insta-whip charges a little faster and drains rings much slower.
 * EXP item lockout is gone, so use any item you can to win the race.
@@ -105,3 +105,6 @@ Custom Sprites for Double Banana, Triple Banana, Quad Banana, Double Sneakers, T
 Saturn Build here: https://github.com/Indev450/SRB2Kart-Saturn
 
 Blankart Build here: https://codeberg.org/NepDisk/blankart
+
+
+Help with getting 32-player online stable: Pura/mileswolfgang
